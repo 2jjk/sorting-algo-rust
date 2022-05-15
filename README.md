@@ -1,1 +1,1 @@
-"# sorting-algo-rust" 
+## Sorting algorithms in Rust
